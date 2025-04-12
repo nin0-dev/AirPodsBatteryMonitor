@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import sys
 from bt.service import Service
 from aap.watchers.battery_watcher import BatteryWatcher
